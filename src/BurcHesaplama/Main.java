@@ -28,8 +28,7 @@ Kova Burcu : 22 Ocak - 19 Şubat
 
 Balık Burcu : 20 Şubat - 20 Mart
 
-Ödev
-Aynı örneği switch-case kullanmadan yapınız.*/
+*/
 
                 Scanner inp=new Scanner(System.in);
                 System.out.print("Doğum gününüzün gününü giriniz: ");
