@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc24fa45-a8e5-479a-b481-fd0a9efdb90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CiftsayılarıToplama/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DortVeBeskuvvetleri/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/fdfsagf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/gdgs/cbfg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/qewqrt/fsadfsadf.java" afterDir="false" />
@@ -51,7 +51,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DortVeBeskuvvetleri.Main" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DortVeBeskuvvetleri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CinZodyak.Main" />
       <module name="javapatika" />
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcakbiletiFiyatiHesaplama.Main" />
-      <module name="javapatika" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UcakbiletiFiyatiHesaplama.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
