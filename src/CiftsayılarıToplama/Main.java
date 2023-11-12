@@ -10,7 +10,7 @@ public class Main {
 
         int sayi1,total=0;
         Scanner inp=new Scanner(System.in);
-
+                                                                                                                                                                                                                                                                                                                                
         do{
             System.out.print("Sayı Giriniz: ");
             sayi1=inp.nextInt();
