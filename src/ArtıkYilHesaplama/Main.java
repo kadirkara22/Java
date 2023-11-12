@@ -34,5 +34,7 @@ bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmas�
         } else {
             System.out.println(year + " bir artık yıl değildir.");
         }
+
+
     }
 }

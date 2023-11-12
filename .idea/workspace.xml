@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc24fa45-a8e5-479a-b481-fd0a9efdb90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArtıkYilHesaplama/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TamBolenBulma/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/fdfsagf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/gdgs/cbfg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/qewqrt/fsadfsadf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Insertion Sort/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapatika/ArtıkYilHesaplama/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapatika/ArtıkYilHesaplama/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtıkYilHesaplama/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtıkYilHesaplama/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../chatapp/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../chatapp/README.md" beforeDir="false" />
@@ -50,20 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="BuyuktenKucuge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sıralama.BuyuktenKucuge" />
-      <module name="javapatika" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sıralama.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcHesaplama.Main" />
       <module name="javapatika" />
@@ -83,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CinZodyak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TamBolenBulma.Main" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TamBolenBulma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.BuyuktenKucuge" />
       </list>
     </recent_temporary>
   </component>
