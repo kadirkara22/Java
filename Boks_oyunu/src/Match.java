@@ -17,7 +17,7 @@ public class Match {
             Fighter currentFighter = (Math.random() < 0.5) ? f1 : f2;
             Fighter opponent = (currentFighter == f1) ? f2 : f1;
             System.out.println("oyuna ilk " +currentFighter.name+" başlıyor");
-            
+
             while (this.f1.health>0 && this.f2.health>0){
                 System.out.println("====Round====");
                 // Vuruşları gerçekleştir
