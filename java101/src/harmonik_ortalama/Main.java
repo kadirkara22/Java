@@ -26,5 +26,5 @@ public class Main {
         return n / harmonicSum;
     }
 
-    
+
 }
